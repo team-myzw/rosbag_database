@@ -1,8 +1,0 @@
-std_msgs/Header header
-string[] record_topic_list
-string split_duration_str
-string save_name
-string node_name
----
-int16 record_number
-time record_time
