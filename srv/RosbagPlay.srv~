@@ -1,0 +1,13 @@
+string name
+time rosbag_time
+time start_time
+time end_time
+int64 count_number
+string topics
+string folda_path
+int64 duration
+---
+string[] pickle_message
+bool success
+string module_code
+string module_path
